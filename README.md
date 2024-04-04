@@ -1,10 +1,9 @@
-# Welcome to JungHun's Github!
+# Welcome to My Github!
 
 **Front-End Developer**
 
 Blog: https://velog.io/@j7papa
 
-Email: [📧 j7papa@naver.com](mailto:adalovelace@mail.com)
 <br>
 <br>
 
