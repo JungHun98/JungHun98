@@ -7,6 +7,8 @@ Blog: https://velog.io/@j7papa
 <br>
 <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkpapa)](https://solved.ac/jkpapa/)
+
 **2023/01&nbsp;~** 삼성 청년 SW 아카데미 11기 <br>
 **2023/07 ~ 2023/08** 현대자동차그룹 소프티어 부트캠프 2기<br>
 **2017/03 ~ 2024/02** 소프트웨어학부 학사
